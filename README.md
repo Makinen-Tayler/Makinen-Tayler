@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tayler Makinen
 - 👀 I’m interested in ... Developing new projects using a variety of technologies and languages
-- 🌱 I’m currently learning ... C# and working on a personal resume site to see my projects and follow my progression
+- 🌱 I’m currently working with ... C# and Angular. Building a personal resume site to see my projects and follow my progression
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
